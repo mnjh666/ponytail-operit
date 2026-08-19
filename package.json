@@ -1,0 +1,29 @@
+{
+  "name": "@mnjh666/ponytail-operit",
+  "version": "1.0.0",
+  "description": "Ponytail skills adapted for Operit AI (Android). Lazy senior dev mode for AI agents.",
+  "keywords": ["operit", "ponytail", "skills", "ai-agents"],
+  "license": "MIT",
+  "author": {
+    "name": "mnjh666",
+    "url": "https://github.com/mnjh666"
+  },
+  "homepage": "https://github.com/mnjh666/ponytail-operit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnjh666/ponytail-operit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mnjh666/ponytail-operit/issues"
+  },
+  "main": "./skills",
+  "files": [
+    "AGENTS.md",
+    "skills/",
+    "plugin.yaml",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
