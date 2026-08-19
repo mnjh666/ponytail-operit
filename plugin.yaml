@@ -1,0 +1,11 @@
+name: ponytail-operit
+version: 1.0.0
+description: Ponytail skills adapted for Operit AI (Android) - non-official Chinese localization with trigger words.
+author: mnjh666
+provides_skills:
+  - ponytail
+  - ponytail-review
+  - ponytail-audit
+  - ponytail-debt
+  - ponytail-gain
+  - ponytail-help
